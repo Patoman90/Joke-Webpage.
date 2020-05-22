@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Alien dance</title>
+</head>
+<body style="background-color:green;">
+  <div>
+  <header style="text-align: center;">
+    <h1>Ayylmao</h1>
+  </header>
+  </div>
+  <div style="   padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;">
+  <iframe width="1000" height="1000"
+src="https://www.youtube.com/embed/4vkR1G_DUVc">
+</iframe>
+  </div>
+  <footer style="text-align: center;">
+    <h2>
+      Just for laughs.
+    </h2>
+  </footer>
+</body>
+</html>
